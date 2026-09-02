@@ -1,1 +1,2 @@
-# practise
+# practicing git - by aman
+
